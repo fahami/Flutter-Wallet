@@ -1,0 +1,38 @@
+{
+    "status": "ok",
+    "messages": "successfully retrieve data",
+    "data": {
+        "items": [
+            {
+                "id": "4",
+                "date": "2021-10-12",
+                "type": "in",
+                "value": 100000,
+                "information": "topup benings pay"
+            },
+            {
+                "id": "5",
+                "date": "2021-10-12",
+                "type": "out",
+                "value": 1000,
+                "information": "beli serum"
+            },
+            {
+                "id": "6",
+                "date": "2021-10-12",
+                "type": "out",
+                "value": 10000,
+                "information": "beli serum"
+            },
+            {
+                "id": "7",
+                "date": "2021-10-12",
+                "type": "out",
+                "value": 10000,
+                "information": "beli serum"
+            }
+        ],
+        "page": 1,
+        "perPage": 10
+    }
+}
